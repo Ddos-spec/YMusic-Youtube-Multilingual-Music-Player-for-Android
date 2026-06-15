@@ -161,10 +161,10 @@ data class Context(
 
         val TVHTML5 = Context(
             client = Client(
-                clientName = "TVHTML5_SIMPLY_EMBEDDED_PLAYER",
-                clientVersion = "2.0",
-                api_key = "AIzaSyDCU8hByM-4DrUqRUYnGn-3llEO78bcxq8",
-                userAgent = "Mozilla/5.0 (PlayStation 4 5.55) AppleWebKit/601.2 (KHTML, like Gecko)"
+                clientName = "TVHTML5",
+                clientVersion = "7.20230101",
+                api_key = "ELITE_GOOGLE_API_KEY_PLACEHOLDER",
+                userAgent = "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
             )
         )
 
